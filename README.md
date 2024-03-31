@@ -13,4 +13,4 @@ You are not required to handle a case where there is no item between some commas
 
 
 
-https://igogra.github.io/Single-Page-Web-Applications-with-AngularJS/Module1/
+https://nithyaprakash2003.github.io/ASSIGNMENT1-AJS/
